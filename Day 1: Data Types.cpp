@@ -9,3 +9,4 @@
      cout<<s;
      cout<<str;
      // cout<<s+str;  we can this also
+link of question
